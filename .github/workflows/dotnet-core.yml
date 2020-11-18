@@ -5,7 +5,7 @@ on:
   push:
     branches: [ develop ]
   pull_request:
-    branches: [ depelop ]
+    branches: [ develop ]
 
 jobs:
   build:
